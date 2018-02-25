@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
+
+html {
+	background: #ffffff;
+	color: #484948;
+}
+body {
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	width: 80%;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+header {
+	padding-top: 40px;
+	padding-left: 40px;
+	border-bottom: 2px solid #484948;
+}
+
+.desc {
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	font-style: italic;
+}
